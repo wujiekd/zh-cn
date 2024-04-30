@@ -22,6 +22,9 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.csdn %}
+        <li><a href="{{ author.csdn }}"><i class="ai ai-pubmed-square ai-fw"></i> 博客</a></li>
+      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
@@ -117,9 +120,6 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-      {% endif %}
-      {% if author.csdn %}
-        <li><a href="{{ author.csdn }}"><i class="ai ai-pubmed-square ai-fw"></i> 博客</a></li>
 {% endif %}
     </ul>
       <div class="author__urls_sm">
@@ -128,6 +128,9 @@
       {% endif %}
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.csdn %}
+        <a href="{{ author.csdn }}"><i class="ai ai-pubmed-square ai-fw" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
@@ -162,9 +165,9 @@
       {% if author.bitbucket %}
         <a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i></a>
       {% endif %}
-      {% if author.github %}
+      <!-- {% if author.github %}
         <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-      {% endif %}
+      {% endif %} -->
       {% if author.stackoverflow %}
         <a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i></a>
       {% endif %}
@@ -201,9 +204,9 @@
       {% if author.vine %}
         <a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i></a>
       {% endif %}
-      {% if author.googlescholar %}
+      <!-- {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
-      {% endif %}
+      {% endif %} -->
       {% if author.pubmed %}
         <a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i></a>
       {% endif %}
@@ -215,9 +218,6 @@
       {% endif %}
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if author.csdn %}
-        <a href="{{ author.csdn }}"><i class="ai ai-pubmed-square ai-fw"></i></a>
       {% endif %}
     </div>
   </div>
