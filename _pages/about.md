@@ -22,7 +22,7 @@ redirect_from:
 **目前正在寻求多模态算法、AIGC相关工作。**
 
 我将硕士毕业于中国科学技术大学, 导师是於俊副教授, 企业导师是平安科技美国硅谷研究院多模态组组长Peng Chang和Iek-Heng Chu。本科毕业于广州大学, 导师是人工智能研究院执行院长李进教授和王显珉副教授。目前参与发表文章10余篇。 <a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-本科期间以来经常参加算法比赛, 气氛组选手，担任阿里安全学生专家小组成员, [阿里安全挑战者计划排行榜第七名](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te)。
+本科期间以来经常参加算法比赛。 此外，担任阿里安全学生专家小组成员, [阿里安全挑战者计划排行榜第七名](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te)。
 
 
 
