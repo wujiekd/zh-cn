@@ -21,22 +21,25 @@ redirect_from:
 
 我将硕士毕业于中国科学技术大学, 导师是於俊副教授, 企业导师是平安科技美国硅谷研究院多模态组组长Peng Chang和Iek-Heng Chu。本科毕业于广州大学, 导师是人工智能研究院执行院长李进教授和王显珉副教授。目前参与发表文章10余篇<a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-本科期间以来经常参加算法比赛和写[博客](https://blog.csdn.net/weixin_43999137?type=blog), 气氛组选手，担任阿里安全学生专家小组成员, [阿里安全挑战者计划排行榜Top10](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te)。
+
+
+
+本科期间以来经常参加算法比赛, 气氛组选手，担任阿里安全学生专家小组成员, [阿里安全挑战者计划排行榜Top10](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te)。
 
 
 
 
 我的研究领域包括：
-- 多模态交互与建模(CV/NLP)
+- 多模态交互与建模 (CV/NLP)
 - AIGC
 - 细粒度图像识别
 - 鲁棒机器学习
 
 我的业务方向包括：
 - 大语言模型
-- 探索性数据分析(EDA)
+- 探索性数据分析 (EDA)
 - 数据挖掘
-- 风格迁移(AE、GAN、Diffusion)
+- 风格迁移 (AE、GAN、Diffusion)
 - 目标检测
 
 
@@ -51,7 +54,7 @@ redirect_from:
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024(CCF-A)</div><img src='images/CEAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024 (CCF-A)</div><img src='images/CEAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dialogue Cross-Enhanced Central Engagement Attention Model for Real-Time Engagement Estimation]() \\
@@ -68,7 +71,7 @@ Jun Yu, **Keda Lu**, Ji Zhao et al. (学生一作)
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024(CCF-A) workshop</div><img src='images/mvav.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (CCF-A) workshop</div><img src='images/mvav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MvAV-pix2pixHD: Multi-view Aerial View Image Translation]() \\
@@ -84,35 +87,36 @@ Jun Yu, **Keda Lu**, Shenshen Du et al. (学生一作)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2023(CCF-A)</div><img src='images/sw2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2023 (CCF-A)</div><img src='images/sw2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - `ACM-MM 2023(CCF-A)` [Sliding Window Seq2seq Modeling for Engagement Estimation](https://dl.acm.org/doi/abs/10.1145/3581783.3612852) \\
 Jun Yu, **Keda Lu**, Mohan Jing et al. (学生一作)
 
-- `TOMM 2024在投(CCF-B)` [Sliding Window Seq2seq Modeling for Engagement Estimation](https://dl.acm.org/doi/abs/10.1145/3581783.3612852) \\
-Jun Yu, **Keda Lu**, Ji Zhao et al. (学生一作)
+- `TOMM 2024在投(CCF-B)` [Exploring Seq2seq Models for Engagement Estimation in
+Dyadic Conversations]() \\
+Jun Yu, **Keda Lu**, Lei Wang et al. (学生一作)
 
 1. 基于Transformer和BiLSTM模型提出Seq2seq参与度估计模型，实现了当前参与度估计任务新的SOTA。Transformer尝试4种绝对和相对位置编码，包括RoPE。
 2. 针对长视频直接划分遇到的上下文大量丢失问题，提出滑动窗口提升性能。
 3. 提出Ai-BiLSTM去对齐和交互对话者的多模态特征，进一步提升性能。
-4. 该论文的方法应用于ACM-MM2023中的参与度估计竞赛中取得了冠军。
+4. 该论文的方法应用于ACM-MM 2023中的参与度估计竞赛中取得了冠军。
 
 <!-- [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech) -->
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trans在投</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trans 在投</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Comprehensive and Unified Out-of-Distribution Classification Solution Framework](https://dl.acm.org/doi/abs/10.1145/3581783.3612852) \\
+[A Comprehensive and Unified Out-of-Distribution Classification Solution Framework]() \\
 Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 
 1. (数据)提出semantic masking数据增强用于提升模型针对occlusion场景的鲁棒性，并提出了OOD-DAS，一个全面且鲁棒的数据增强集合。
 2. (模型)提出OOD-Attention，可用于SOTA分类模型无缝集成，提升模型鲁棒性。
 3. (策略)提出多架构模型集成的迭代伪标签方法，进一步提升OOD识别的精度。
-4. 该论文的方法应用于ICCV2023的OOD识别竞赛中取得了冠军。
+4. 该论文的方法应用于ICCV 2023的OOD识别竞赛中取得了冠军。
 
 </div>
 </div>
