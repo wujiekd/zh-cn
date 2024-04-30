@@ -1,0 +1,30 @@
+# main links links
+main:
+  - title: "简介"
+    url: "/zh-cn/#about-me"
+
+  # - title: "新闻"
+  #   url: "/zh-cn/#-news"
+
+  - title: "发表论文"
+    url: "/zh-cn/#-lwzl"
+
+  - title: "业务项目"
+    url: "/zh-cn/#-ywxm"
+
+  - title: "参与竞赛"
+    url: "/zh-cn/#-cyjs"
+
+  - title: "荣誉奖项"
+    url: "/zh-cn/#-ryjx"
+
+  - title: "教育"
+    url: "/zh-cn/#-xl"
+
+  - title: "学术会议"
+    url: "/zh-cn/#-xshy"
+
+  - title: "实习"
+    url: "/zh-cn/#-gzsx"
+
+
