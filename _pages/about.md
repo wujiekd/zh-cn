@@ -38,7 +38,7 @@ redirect_from:
 - 大语言模型
 - 探索性数据分析 (EDA)
 - 数据挖掘
-- 风格迁移 (Auto Encoder、GAN、Diffusion)
+- 风格迁移 (Autoencoder、GAN、Diffusion)
 - 目标检测
 
 
