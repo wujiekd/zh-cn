@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-算法研究围绕多模态交互与建模，实习业务涉及LLM大模型和图像生成，目前正在寻求多模态算法、AIGC相关工作。
+算法研究围绕多模态交互与建模，实习业务涉及LLM大模型和图像生成。
 
-我将硕士毕业于中国科学技术大学, 导师是於俊副教授, 企业导师是平安科技美国硅谷研究院多模态组组长Peng Chang和Iek-Heng Chu。本科毕业于广州大学, 导师是人工智能研究院执行院长李进教授和王显珉副教授。目前参与发表文章10余篇<a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+**目前正在寻求多模态算法、AIGC相关工作。**
 
-
-
-
-本科期间以来经常参加算法比赛, 气氛组选手，担任阿里安全学生专家小组成员, [阿里安全挑战者计划排行榜Top10](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te)。
+我将硕士毕业于中国科学技术大学, 导师是於俊副教授, 企业导师是平安科技美国硅谷研究院多模态组组长Peng Chang和Iek-Heng Chu。本科毕业于广州大学, 导师是人工智能研究院执行院长李进教授和王显珉副教授。目前参与发表文章10余篇<a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
+本科期间以来经常参加算法比赛, 气氛组选手，担任阿里安全学生专家小组成员, [阿里安全挑战者计划排行榜第七名](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te)。
 
 
 
@@ -39,7 +37,7 @@ redirect_from:
 - 大语言模型
 - 探索性数据分析 (EDA)
 - 数据挖掘
-- 风格迁移 (AE、GAN、Diffusion)
+- 风格迁移 (Auto Encoder、GAN、Diffusion)
 - 目标检测
 
 
@@ -60,10 +58,9 @@ redirect_from:
 [Dialogue Cross-Enhanced Central Engagement Attention Model for Real-Time Engagement Estimation]() \\
 Jun Yu, **Keda Lu**, Ji Zhao et al. (学生一作)
 
-1. 针对实时参与度估计，对sliding window和模型角度进行深层次挖掘。
-2. 为了解决sliding window的重复推理问题，提出cente-based sliding window，推理效率提升100%。
-3. 提出基于自注意力机制的核心参与度注意力模型，超越先前的SOTA的BiLSTM模型，推理效率提升300%。
-4. 基于交叉注意力提出交叉增强模块，和核心参与度注意力模型无缝集成，交互对话者的特征，实现了实时参与度估计任务新的SOTA。
+1. 为了解决sliding window的重复推理问题，提出cente-based sliding window，推理效率提升100%。
+2. 提出基于自注意力机制的核心参与度注意力模型，超越先前的SOTA的BiLSTM模型，推理效率提升300%。
+3. 基于交叉注意力提出交叉增强模块，和核心参与度注意力模型无缝集成，交互对话者的特征，实现了实时参与度估计任务新的SOTA。
 
 <!-- [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech) -->
 </div>
@@ -177,8 +174,8 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 <div class='paper-box-text' markdown="1">
 - *2023.01 - 2023.03* 任意风格中文字体生成 (GAN、Diffusion model)
 
-1. 调研了中文字体生成算法，主要采用GAN，唯一一个采用了Diffusion model(Diff-Font)，但其风格编码器采用的是GAN预训练的模块。
-2. 自行搜集400类字体数据，基于Diffusion model(DDPM)设计端到端的字体生成模型，在SSIM、LPIPS等指标上略优于Diff-Font和DG-GAN，但加入风格编码的整体结构训练缓慢。
+1. 调研了中文字体生成算法，主流采用GAN，唯一一个采用了Diffusion model(Diff-Font)，但其风格编码器采用的是GAN预训练的模块。
+2. 自行搜集400类字体数据，基于Diffusion model(DDPM)设计端到端的字体生成模型，在SSIM、LPIPS等指标上略优于Diff-Font和DG-Font，但加入风格编码的整体结构训练缓慢。
 
 - 未来改进点：End2end、对比学习、Diffusion model
 </div>
@@ -242,7 +239,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 ### 研究生阶段（主要参与）
 ---
 
-- *2024.03* [CVPR 2024: Multi-modal Aerial View Image Challenge - T (Translation)](https://codalab.lisn.upsaclay.fr/competitions/17224) (Top3奖金池2500$, 个人solo, **亚军**🥈) [[排行榜]](https://codalab.lisn.upsaclay.fr/competitions/17224#results) [[论文]]
+- *2024.03* [CVPR 2024: Multi-modal Aerial View Image Challenge - Translation](https://codalab.lisn.upsaclay.fr/competitions/17224) (Top3奖金池2500$, 个人solo, **亚军**🥈) [[排行榜]](https://codalab.lisn.upsaclay.fr/competitions/17224#results) [[论文]]
 
 
 - *2023.10* [ICCV 2023: Out Of Distribution Generalization: Object Classification track](https://codalab.lisn.upsaclay.fr/competitions/14068#results) (个人solo, **冠军**🏆) [[排行榜]](https://codalab.lisn.upsaclay.fr/competitions/14068#results) [[论文在投]]
@@ -299,7 +296,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 - *2021.11* [OPPO安全AI挑战赛-人脸识别攻击](https://security.oppo.com/challenge/home.html) (前十奖金池60万¥, 个人solo, 初赛6/2000+, **复赛12/2000+**) [[排行榜]](https://security.oppo.com/challenge/rank.html) [[代码]](https://github.com/wujiekd/Hot-restart-black-box-face-adversarial-attack) 
 
 
-- *2021.03* [CVPR 2021：对抗机器学习研讨会竞赛, 防御模型的白盒对抗攻击](https://aisecure-workshop.github.io/amlcvpr2021/) (前十奖金池10万$, 个人solo, **排名20/1681**) [[排行榜]](https://tianchi.aliyun.com/competition/entrance/531847/rankingList) [[代码]](https://github.com/wujiekd/CVPR2021_ODI_BIM_Attack?spm=a2c22.21852664.0.0.7830775fHm2G8V)  [[博客]](https://tianchi.aliyun.com/forum/post/208313)
+- *2021.03* [CVPR 2021：防御模型的白盒对抗攻击](https://aisecure-workshop.github.io/amlcvpr2021/) (前十奖金池10万$, 个人solo, **排名20/1681**) [[排行榜]](https://tianchi.aliyun.com/competition/entrance/531847/rankingList?lang=zh-cn) [[代码]](https://github.com/wujiekd/CVPR2021_ODI_BIM_Attack?spm=a2c22.21852664.0.0.7830775fHm2G8V)  [[博客]](https://tianchi.aliyun.com/forum/post/208313)
 
 - *2020.10* [伪造图像的对抗攻击竞赛(阿里天池和清华大学联合举办)](https://tianchi.aliyun.com/competition/entrance/531812) (前十奖金池200万¥, **排名6/1666**) [[排行榜]](https://tianchi.aliyun.com/competition/entrance/531812/rankingList)
 
@@ -354,7 +351,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 
 
 
-**Thank you very much for every visitor, and we look forward to hearing from you!**
+**Thank you very much for every visitor, and I look forward to hearing from you!**
 
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=rKMwhJZp-jNdf9O9kF5nNmH24oOX225WsWhZMH3I8bQ&cl=ffffff&w=a"></script>
