@@ -240,7 +240,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 ### 研究生阶段（主要参与）
 ---
 
-- *2024.07* [ACM-MM 2023: Grand challenge, Multi-Domain Engagement Estimation](https://multimediate-challenge.org/) (个人solo, **冠军**🏆) [[排行榜]]
+- *2024.07* [ACM-MM 2024: Grand challenge, Multi-Domain Engagement Estimation](https://multimediate-challenge.org/) (个人solo, **冠军**🏆) [[排行榜]]
   
 - *2024.03* [CVPR 2024: Multi-modal Aerial View Image Challenge - Translation](https://codalab.lisn.upsaclay.fr/competitions/17224) (Top3奖金池2500$, 个人solo, **亚军**🥈) [[排行榜]](https://codalab.lisn.upsaclay.fr/competitions/17224#results) [[论文]](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Yu_MvAV-pix2pixHD_Multi-view_Aerial_View_Image_Translation_CVPRW_2024_paper.html)
 
