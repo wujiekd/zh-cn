@@ -56,7 +56,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024 (CCF-A)</div><img src='images/CEAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dialogue Cross-Enhanced Central Engagement Attention Model for Real-Time Engagement Estimation]() \\
+[Dialogue Cross-Enhanced Central Engagement Attention Model for Real-Time Engagement Estimation](https://www.ijcai.org/proceedings/2024/353) \\
 Jun Yu, **Keda Lu**, Ji Zhao et al. (学生一作)
 
 1. 为了解决sliding window的重复推理问题，提出cente-based sliding window，推理效率提升100%。
@@ -72,7 +72,7 @@ Jun Yu, **Keda Lu**, Ji Zhao et al. (学生一作)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 (CCF-A) workshop</div><img src='images/mvav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MvAV-pix2pixHD: Multi-view Aerial View Image Translation]() \\
+[MvAV-pix2pixHD: Multi-view Aerial View Image Translation](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Yu_MvAV-pix2pixHD_Multi-view_Aerial_View_Image_Translation_CVPRW_2024_paper.html) \\
 Jun Yu, **Keda Lu**, Shenshen Du et al. (学生一作)
 
 1. 设计针对多视角图像翻译任务的时间优先采样和随机采样方法。
@@ -240,7 +240,9 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 ### 研究生阶段（主要参与）
 ---
 
-- *2024.03* [CVPR 2024: Multi-modal Aerial View Image Challenge - Translation](https://codalab.lisn.upsaclay.fr/competitions/17224) (Top3奖金池2500$, 个人solo, **亚军**🥈) [[排行榜]](https://codalab.lisn.upsaclay.fr/competitions/17224#results) [[论文]]
+- *2024.07* [ACM-MM 2023: Grand challenge, Multi-Domain Engagement Estimation](https://multimediate-challenge.org/) (个人solo, **冠军**🏆) [[排行榜]]
+  
+- *2024.03* [CVPR 2024: Multi-modal Aerial View Image Challenge - Translation](https://codalab.lisn.upsaclay.fr/competitions/17224) (Top3奖金池2500$, 个人solo, **亚军**🥈) [[排行榜]](https://codalab.lisn.upsaclay.fr/competitions/17224#results) [[论文]](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Yu_MvAV-pix2pixHD_Multi-view_Aerial_View_Image_Translation_CVPRW_2024_paper.html)
 
 
 - *2023.10* [ICCV 2023: Out Of Distribution Generalization: Object Classification track](https://codalab.lisn.upsaclay.fr/competitions/14068#results) (个人solo, **冠军**🏆) [[排行榜]](https://codalab.lisn.upsaclay.fr/competitions/14068#results) [[论文在投]]
