@@ -276,7 +276,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 <!-- MM jmh 季军 iccv zj 冠军 cvpr shooc 和 mavic 冠军 ROSE冠军 -->
 ---
 - *2024.07* [ACM-MM 2024: 1M-Deepfakes Detection Challenge](https://deepfakes1m.github.io/) (**冠军**🏆) [[排行榜]]() [[论文]]()
-- 
+
 - *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Multi-label Micro-Action Detection](https://sites.google.com/view/micro-action) (**冠军**🏆) [[排行榜]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[论文]]()
 
 - *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Micro-Action Detection](https://sites.google.com/view/micro-action) (**亚军**🥈) [[排行榜]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[论文]]()
