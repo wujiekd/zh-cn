@@ -119,6 +119,9 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 </div>
 </div>
 
+- `ACM-MM 2024` [End-to-end Spatio-Temporal Information Aggregation For Micro-Action Detection]() Jun Yu, Mohan Jing, Gongpeng Zhao, **Keda Lu** et al.
+
+- `ACM-MM 2024` [Building Robust Video-Level Deepfake Detection via Audio-Visual Local-Global Interactions]() Yifan Wang, Xuecheng Wu, Jia Zhang, Mohan Jing, **Keda Lu** et al.
 
 - `ACM-MM 2023` [Answer-Based Entity Extraction and Alignment for Visual Text Question Answering](https://dl.acm.org/doi/abs/10.1145/3581783.3612850) Jun Yu, Mohan Jing, Weihao Liu, Tongxu Luo, Bingyuan Zhang, **Keda Lu** et al.
 
@@ -240,7 +243,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 ### 研究生阶段（主要参与）
 ---
 
-- *2024.07* [ACM-MM 2024: Grand challenge, Multi-Domain Engagement Estimation](https://multimediate-challenge.org/) (个人solo, **冠军**🏆) [[排行榜]]
+- *2024.07* [ACM-MM 2024: Grand challenge, Multi-Domain Engagement Estimation](https://multimediate-challenge.org/) (个人solo, **冠军**🏆) [[排行榜]](https://multimediate-challenge.org/leaderboards/leaderboard_engagement/)
   
 - *2024.03* [CVPR 2024: Multi-modal Aerial View Image Challenge - Translation](https://codalab.lisn.upsaclay.fr/competitions/17224) (Top3奖金池2500$, 个人solo, **亚军**🥈) [[排行榜]](https://codalab.lisn.upsaclay.fr/competitions/17224#results) [[论文]](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Yu_MvAV-pix2pixHD_Multi-view_Aerial_View_Image_Translation_CVPRW_2024_paper.html)
 
@@ -272,6 +275,12 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 ### 研究生阶段（协助参与）
 <!-- MM jmh 季军 iccv zj 冠军 cvpr shooc 和 mavic 冠军 ROSE冠军 -->
 ---
+- *2024.07* [ACM-MM 2024: 1M-Deepfakes Detection Challenge](https://deepfakes1m.github.io/) (**冠军**🏆) [[排行榜]]() [[论文]]()
+- 
+- *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Multi-label Micro-Action Detection](https://sites.google.com/view/micro-action) (**冠军**🏆) [[排行榜]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[论文]]()
+
+- *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Micro-Action Detection](https://sites.google.com/view/micro-action) (**亚军**🥈) [[排行榜]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[论文]]()
+
 - *2023.12* [ICCV 2023: WECIA - Caption Generation Challenge](https://eval.ai/web/challenges/challenge-page/2104/overview) (**冠军**🏆) [[排行榜]](https://eval.ai/web/challenges/challenge-page/2104/leaderboard/5203)
 
 
@@ -322,6 +331,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 <span class='anchor' id='-ryjx'></span>
 
 # 🎖 荣誉奖项
+- *2024.10* 国家奖学金(研究生前1%)
 - *2023.11* 华为奖学金(全校30位)
 - *2023.10* 国家奖学金(研究生前1%)
 - *2022.10* 国家奖学金(研究生前1%)
@@ -357,4 +367,4 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 **Thank you very much for every visitor, and I look forward to hearing from you!**
 
 
-<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=3TTDcMspE9blO-62HMEnb2GXkKIYDXKNLl2EQC_ygm4"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=3TTDcMspE9blO-62HMEnb2GXkKIYDXKNLl2EQC_ygm4&cl=ffffff&w=a"></script>
