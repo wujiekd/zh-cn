@@ -19,7 +19,7 @@ redirect_from:
 
 **算法研究围绕多模态交互与建模，业务涉及LLM大模型和图像生成。**
 
-我目前就职业华为技术有限公司，终端云服务小艺业务部。硕士毕业于中国科学技术大学, 导师是於俊副教授, 企业导师是平安科技美国硅谷研究院院长Peng Chang和Iek-Heng Chu。本科毕业于广州大学, 导师是人工智能研究院执行院长李进教授和王显珉副教授。目前参与发表文章10余篇。 <a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+我目前就职于**华为，终端云小艺**。硕士毕业于**中国科学技术大学**, 导师是於俊副教授, 企业导师是平安科技美国硅谷研究院院长Peng Chang和Iek-Heng Chu。本科毕业于广州大学, 导师是人工智能研究院执行院长李进教授和王显珉副教授。目前参与发表文章10余篇。 <a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 本科和研究生期间以来经常参加算法比赛，累计国内外AI算法竞赛获奖10余次，掌握丰富的比赛经验和策略。 此外，担任阿里安全学生专家小组成员, [阿里安全挑战者计划排行榜](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te)第七名。
 
