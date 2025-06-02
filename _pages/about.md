@@ -17,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-算法研究围绕多模态交互与建模，实习业务涉及LLM大模型和图像生成。
+**算法研究围绕多模态交互与建模，业务涉及LLM大模型和图像生成。**
 
-**目前正在寻求多模态算法、AIGC相关工作。**
+我目前就职业华为技术有限公司，终端云服务小艺业务部。硕士毕业于中国科学技术大学, 导师是於俊副教授, 企业导师是平安科技美国硅谷研究院院长Peng Chang和Iek-Heng Chu。本科毕业于广州大学, 导师是人工智能研究院执行院长李进教授和王显珉副教授。目前参与发表文章10余篇。 <a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-我将硕士毕业于中国科学技术大学, 导师是於俊副教授, 企业导师是平安科技美国硅谷研究院多模态组组长Peng Chang和Iek-Heng Chu。本科毕业于广州大学, 导师是人工智能研究院执行院长李进教授和王显珉副教授。目前参与发表文章10余篇。 <a href='https://scholar.google.com/citations?user=MmZ_y1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
-本科和研究生期间以来经常参加算法比赛，累计参与国内外AI算法竞赛共20多次，掌握丰富的比赛经验和策略。 此外，担任阿里安全学生专家小组成员, [阿里安全挑战者计划排行榜](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te)第七名。
+本科和研究生期间以来经常参加算法比赛，累计国内外AI算法竞赛获奖10余次，掌握丰富的比赛经验和策略。 此外，担任阿里安全学生专家小组成员, [阿里安全挑战者计划排行榜](https://s.alibaba.com/challenge?spm=a2c22.12281976.0.0.46db2a69WaN1Te)第七名。
 
 
 
@@ -38,7 +36,7 @@ redirect_from:
 - 大语言模型
 - 探索性数据分析 (EDA)
 - 数据挖掘
-- 风格迁移 (Autoencoder、GAN、Diffusion)
+- 风格迁移 (Autoencoder、GAN、Diffusion model)
 - 目标检测
 
 
@@ -248,7 +246,7 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 - *2024.03* [CVPR 2024: Multi-modal Aerial View Image Challenge - Translation](https://codalab.lisn.upsaclay.fr/competitions/17224) (Top3奖金池2500$, 个人solo, **亚军**🥈) [[排行榜]](https://codalab.lisn.upsaclay.fr/competitions/17224#results) [[论文]](https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Yu_MvAV-pix2pixHD_Multi-view_Aerial_View_Image_Translation_CVPRW_2024_paper.html)
 
 
-- *2023.10* [ICCV 2023: Out Of Distribution Generalization: Object Classification track](https://codalab.lisn.upsaclay.fr/competitions/14068#results) (个人solo, **冠军**🏆) [[排行榜]](https://codalab.lisn.upsaclay.fr/competitions/14068#results) [[论文在投]]
+- *2023.10* [ICCV 2023: Out Of Distribution Generalization: Object Classification track](https://codalab.lisn.upsaclay.fr/competitions/14068#results) (个人solo, **冠军**🏆) [[排行榜]](https://codalab.lisn.upsaclay.fr/competitions/14068#results) [[论文在投]]()
 
 
 - *2023.10* [ICCV 2023: Out Of Distribution Generalization: Pose Estimation track](https://codalab.lisn.upsaclay.fr/competitions/14074#learn_the_details) (个人solo, **冠军**🏆) [[排行榜]](https://codalab.lisn.upsaclay.fr/competitions/14074#results) [[技术报告]](https://www.ood-cv.org/reports/pose/ImageNet1k-1st.pdf)
@@ -275,11 +273,11 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 ### 研究生阶段（协助参与）
 <!-- MM jmh 季军 iccv zj 冠军 cvpr shooc 和 mavic 冠军 ROSE冠军 -->
 ---
-- *2024.07* [ACM-MM 2024: 1M-Deepfakes Detection Challenge](https://deepfakes1m.github.io/) (**冠军**🏆) [[排行榜]]() [[论文]]()
+- *2024.07* [ACM-MM 2024: 1M-Deepfakes Detection Challenge](https://deepfakes1m.github.io/) (**冠军**🏆) [[排行榜]](https://deepfakes1m.github.io/2024) [[论文]](https://dl.acm.org/doi/10.1145/3664647.3688985)
 
-- *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Multi-label Micro-Action Detection](https://sites.google.com/view/micro-action) (**冠军**🏆) [[排行榜]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[论文]]()
+- *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Multi-label Micro-Action Detection](https://sites.google.com/view/micro-action) (**冠军**🏆) [[排行榜]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[论文]](https://dl.acm.org/doi/10.1145/3664647.3688974)
 
-- *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Micro-Action Detection](https://sites.google.com/view/micro-action) (**亚军**🥈) [[排行榜]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[论文]]()
+- *2024.07* [ACM-MM 2024: Micro-Action Analysis Grand Challenge：Micro-Action Detection](https://sites.google.com/view/micro-action) (**亚军**🥈) [[排行榜]](https://sites.google.com/view/micro-action/challenge/winners?authuser=0) [[论文]](https://dl.acm.org/doi/10.1145/3664647.3688974)
 
 - *2023.12* [ICCV 2023: WECIA - Caption Generation Challenge](https://eval.ai/web/challenges/challenge-page/2104/overview) (**冠军**🏆) [[排行榜]](https://eval.ai/web/challenges/challenge-page/2104/leaderboard/5203)
 
@@ -331,6 +329,8 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 <span class='anchor' id='-ryjx'></span>
 
 # 🎖 荣誉奖项
+- *2025.03* 安徽省优秀毕业生
+- *2025.03* 中国科学技术大学优秀毕业生
 - *2024.10* 国家奖学金(研究生前1%)
 - *2023.11* 华为奖学金(全校30位)
 - *2023.10* 国家奖学金(研究生前1%)
@@ -356,11 +356,12 @@ Jun Yu, **Keda Lu**, Yifan Wang et al. (学生一作)
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 实习
-- *2023.10 - 2024.10*, 平安科技, 美国硅谷研究院
-- *2023.04 - 2023.06*, 网易(校企合作), 伏羲实验室
-- *2022.11 - 2023.09*, 腾讯, 优图实验室
-- *2022.06 - 2022.12*, 华为(校企合作), 2012实验室
+# 💻 工作经历
+- *2025.06 - 至今*, 华为, 终端云服务小艺业务部
+- *2023.10 - 2025.06*, 平安科技(实习), 美国硅谷研究院
+- *2023.04 - 2023.06*, 网易(实习), 伏羲实验室
+- *2022.11 - 2023.09*, 腾讯(实习), 优图实验室
+- *2022.06 - 2022.12*, 华为(实习), 2012实验室
 
 
 
